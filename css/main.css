@@ -302,7 +302,8 @@ box-shadow: 0 6px 8px #77672b ;
 }
 
  .tu {
-    transition: 0.5s;   
+    transition: 0.5s;  
+     border-radius: 7px; 
    
      
  }
